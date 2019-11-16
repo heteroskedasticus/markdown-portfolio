@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Thinking fast and slow
+* Nudges 
+* Micromotives and Macrobehaviours
+  * Chapter 2
+  * Chapter 3
